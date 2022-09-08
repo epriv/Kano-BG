@@ -1,0 +1,57 @@
+body {
+    background-color: #b2b4b2;
+}
+
+.ButtonSpace {
+    background-color: #707372;
+    position: absolute;
+    top: 10%;
+    right: 25%;
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+}
+
+.A {
+    background-color: red;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 50%;
+    left: 75%;
+    text-align: center;
+}
+
+.B {
+    background-color: yellow;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 25%;
+    left: 50%;
+    text-align: center;
+}
+
+.X {
+    background-color: blue;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 75%;
+    left: 50%;
+    text-align: center;
+}
+
+.Y {
+    background-color: green;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 50%;
+    left: 25%;
+    text-align: center;
+}
