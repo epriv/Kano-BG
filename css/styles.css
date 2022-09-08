@@ -18,6 +18,8 @@ body {
 .ButtonSpace {
     background-color: #707372;
     position: absolute;
+    margin: 0;
+    padding: 0;
     top: 10%;
     right: 25%;
     height: 200px;
@@ -38,6 +40,7 @@ body {
     bottom: 50%;
     left: 75%;
     text-align: center;
+    padding: 3px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
@@ -52,6 +55,7 @@ body {
     bottom: 25%;
     left: 50%;
     text-align: center;
+    padding: 3px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
@@ -66,6 +70,7 @@ body {
     bottom: 75%;
     left: 50%;
     text-align: center;
+    padding: 3px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
@@ -80,6 +85,7 @@ body {
     bottom: 50%;
     left: 25%;
     text-align: center;
+    padding: 3px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
