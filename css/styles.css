@@ -2,6 +2,19 @@ body {
     background-color: #b2b4b2;
 }
 
+.Joystick {
+    background-color: #707372;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
 .ButtonSpace {
     background-color: #707372;
     position: absolute;
@@ -10,6 +23,10 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 10%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
 }
 
 .A {
@@ -21,6 +38,9 @@ body {
     bottom: 50%;
     left: 75%;
     text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
 
 .B {
@@ -32,6 +52,9 @@ body {
     bottom: 25%;
     left: 50%;
     text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
 
 .X {
@@ -43,6 +66,9 @@ body {
     bottom: 75%;
     left: 50%;
     text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
 
 .Y {
@@ -54,4 +80,7 @@ body {
     bottom: 50%;
     left: 25%;
     text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
